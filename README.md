@@ -6,12 +6,3 @@ primer repo publico
 ![Log](<bbdd screenshot imp.png>)
 
 potente
- porque no se guardan las cosaaaas
-
-
- aaaa
- a
- aa
- a
- a
- 
